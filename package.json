@@ -1,7 +1,7 @@
 {
     "name": "iphone-15-titanyum",
     "private": true,
-    "version": "3.1",
+    "version": "1.0.0",
     "type": "module",
     "scripts": {
         "dev": "vite",
